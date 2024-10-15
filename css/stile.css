@@ -5,11 +5,11 @@ body{
 	color:black;
 }
 .intervistato{
-	align:right;
+	align-content:right;
 	text-align:right;
 }
 .intervistatore{
-	align:left;
+	align-content:left;
 	text-align:left;
 }
 p{
