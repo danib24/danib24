@@ -24,9 +24,6 @@ p.intervistatore{
 div{
 	background-color:rgba(0,0,0,0);
 }
-div.intervistato{
-	max-width:70%;
-}
-div.intervistatore{
+div.interno{
 	max-width:70%;
 }
