@@ -24,11 +24,9 @@ p.intervistatore{
 }
 div{
 	background-color:rgba(0,0,0,0);
-	position:absolute;
 }
 div.intervistato{
-	max-width:70%;
-	align:right;
+	margin-left: 30%;
 }
 div.intervistatore{
 	max-width:70%;
