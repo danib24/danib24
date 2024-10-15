@@ -5,17 +5,10 @@ body{
 	color:black;
 }
 .intervistato{
-	align-self:right;
-	align-content:right;
 	text-align:right;
 }
 .intervistatore{
-	align-self:left;
-	align-content:left;
 	text-align:left;
-}
-p{
-	border:2px solid white;
 }
 p.intervistato{
     background-color: orange;
@@ -26,6 +19,12 @@ p.intervistatore{
 div{
 	width:100%;
 	background-color:rgba(0,0,0,0);
+}
+div.intervistato{
+	margin-left:auto;
+}
+div.intervistatore{
+	margin-right:auto;
 }
 div.interno{
 	max-width:70%;
