@@ -24,6 +24,7 @@ p.intervistatore{
     background-color: yellow;
 }
 div{
+	width:100%;
 	background-color:rgba(0,0,0,0);
 }
 div.interno{
