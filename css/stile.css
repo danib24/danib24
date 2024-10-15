@@ -24,10 +24,12 @@ p.intervistatore{
 }
 div{
 	background-color:rgba(0,0,0,0);
+	position:absolute;
 }
 div.intervistato{
-	width:70%;
+	max-width:70%;
+	align:right;
 }
 div.intervistatore{
-	width:70%;
+	max-width:70%;
 }
