@@ -14,7 +14,6 @@ body{
 }
 p{
 	border:2px solid white;
-	border-radius:10%;
 }
 p.intervistato{
     background-color: orange;
@@ -26,7 +25,7 @@ div{
 	background-color:rgba(0,0,0,0);
 }
 div.intervistato{
-	margin-left: 30%;
+	max-width:70%;
 }
 div.intervistatore{
 	max-width:70%;
