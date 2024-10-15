@@ -1,6 +1,32 @@
+body{
+	background-color:black;
+}
+*{
+	color:white;
+}
 .intervistato{
-    background-color: brown;
+	align:right;
+	text-align:right;
 }
 .intervistatore{
-    background-color: aquamarine;
+	align:left;
+	text-align:left;
+}
+p{
+	border:2px solid white;
+	border-radius:10%;
+}
+p.intervistato{
+    background-color: orange;
+}
+p.intervistatore{
+    background-color: yellow;
+}
+div{
+	background-color:rgba(0,0,0,0);
+div.intervistato{
+	width:70%;
+}
+div.intervistatore{
+	width:70%;
 }
