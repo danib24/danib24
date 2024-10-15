@@ -10,6 +10,10 @@ body{
 .intervistatore{
 	text-align:left;
 }
+p{
+	padding:0.5vw;
+	border-radius: 0.7vw;
+}
 p.intervistato{
     background-color: orange;
 }
