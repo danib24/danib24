@@ -2,7 +2,7 @@ body{
 	background-color:black;
 }
 *{
-	color:white;
+	color:black;
 }
 .intervistato{
 	align:right;
@@ -24,6 +24,7 @@ p.intervistatore{
 }
 div{
 	background-color:rgba(0,0,0,0);
+}
 div.intervistato{
 	width:70%;
 }
