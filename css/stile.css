@@ -2,13 +2,19 @@ body{
 	background-color:black;
 }
 *{
-	color:black;
+	color:white;
 }
 .intervistato{
 	text-align:right;
+	color:black;
 }
 .intervistatore{
 	text-align:left;
+	color:black;
+}
+h1{
+	color:white;
+	text-align:center;
 }
 p{
 	padding:0.5vw;
